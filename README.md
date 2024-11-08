@@ -31,8 +31,8 @@
 
 <img 
         align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -41,8 +41,8 @@
  
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="JS"
+    title="JS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -51,8 +51,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="GIT"
+    title="GIT"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
@@ -61,8 +61,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="BS"
+    title="BS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
@@ -71,8 +71,8 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PHP"
+    title="PHP"
     width="30px"
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
@@ -80,11 +80,20 @@
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PYTHON"
+    title="PYTHON"
     width="30px"
     style="padding-right: 10px;"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left"
+    alt="SQL"
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
 <br/>
